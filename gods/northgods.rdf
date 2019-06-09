@@ -1,0 +1,207 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://NorseMythology/Gods#transformed "
+    xmlns:j.1="http://NorseMythology/Gods#is Father "
+    xmlns:j.2="http://NorseMythology/Gods#mates "
+    xmlns:j.3="http://NorseMythology/Gods#is Mother "
+    xmlns:j.4="http://NorseMythology/Gods#is ">
+  <rdf:Description rdf:about="http://NorseMythology/Gods#Gods">
+    <j.4:God rdf:resource="http://NorseMythology/Gods#Idun"/>
+    <j.4:God rdf:resource="http://NorseMythology/Gods#Mimir"/>
+    <j.4:God rdf:resource="http://NorseMythology/Gods#Tyr"/>
+    <j.0:into>
+      <rdf:Description rdf:about="http://NorseMythology/Gods#Audumbla">
+        <j.3:to>
+          <rdf:Description rdf:about="http://NorseMythology/Gods#Buri">
+            <j.1:to>
+              <rdf:Description rdf:about="http://NorseMythology/Gods#Burr">
+                <j.1:to rdf:resource="http://NorseMythology/Gods#Ve"/>
+                <j.1:to rdf:resource="http://NorseMythology/Gods#Vili"/>
+                <j.1:to>
+                  <rdf:Description rdf:about="http://NorseMythology/Gods#Odin">
+                    <j.1:to rdf:resource="http://NorseMythology/Gods#Bragi"/>
+                    <j.1:to rdf:resource="http://NorseMythology/Gods#Hodr"/>
+                    <j.1:to rdf:resource="http://NorseMythology/Gods#Ullr"/>
+                    <j.2:with>
+                      <rdf:Description rdf:about="http://NorseMythology/Gods#Sif">
+                        <j.3:to rdf:resource="http://NorseMythology/Gods#Ullr"/>
+                        <j.3:to rdf:resource="http://NorseMythology/Gods#Modi"/>
+                        <j.3:to rdf:resource="http://NorseMythology/Gods#Thrud"/>
+                      </rdf:Description>
+                    </j.2:with>
+                    <j.1:to>
+                      <rdf:Description rdf:about="http://NorseMythology/Gods#Thor">
+                        <j.1:to rdf:resource="http://NorseMythology/Gods#Magni"/>
+                        <j.2:with>
+                          <rdf:Description rdf:about="http://NorseMythology/Gods#Jarnsaxa">
+                            <j.3:to rdf:resource="http://NorseMythology/Gods#Magni"/>
+                          </rdf:Description>
+                        </j.2:with>
+                        <j.1:to rdf:resource="http://NorseMythology/Gods#Modi"/>
+                        <j.1:to rdf:resource="http://NorseMythology/Gods#Thrud"/>
+                        <j.2:with rdf:resource="http://NorseMythology/Gods#Sif"/>
+                      </rdf:Description>
+                    </j.1:to>
+                    <j.2:with>
+                      <rdf:Description rdf:about="http://NorseMythology/Gods#Jord">
+                        <j.3:to rdf:resource="http://NorseMythology/Gods#Thor"/>
+                      </rdf:Description>
+                    </j.2:with>
+                    <j.1:to>
+                      <rdf:Description rdf:about="http://NorseMythology/Gods#Baldur">
+                        <j.1:to rdf:resource="http://NorseMythology/Gods#Forseti"/>
+                        <j.2:with>
+                          <rdf:Description rdf:about="http://NorseMythology/Gods#Nanna">
+                            <j.3:to rdf:resource="http://NorseMythology/Gods#Forseti"/>
+                          </rdf:Description>
+                        </j.2:with>
+                      </rdf:Description>
+                    </j.1:to>
+                    <j.2:with>
+                      <rdf:Description rdf:about="http://NorseMythology/Gods#Frigg">
+                        <j.3:to rdf:resource="http://NorseMythology/Gods#Baldur"/>
+                      </rdf:Description>
+                    </j.2:with>
+                  </rdf:Description>
+                </j.1:to>
+                <j.1:to rdf:resource="http://NorseMythology/Gods#Hoenir"/>
+                <j.2:with>
+                  <rdf:Description rdf:about="http://NorseMythology/Gods#Bestla">
+                    <j.3:to rdf:resource="http://NorseMythology/Gods#Ve"/>
+                    <j.3:to rdf:resource="http://NorseMythology/Gods#Vili"/>
+                    <j.3:to rdf:resource="http://NorseMythology/Gods#Odin"/>
+                    <j.3:to rdf:resource="http://NorseMythology/Gods#Hoenir"/>
+                  </rdf:Description>
+                </j.2:with>
+              </rdf:Description>
+            </j.1:to>
+          </rdf:Description>
+        </j.3:to>
+      </rdf:Description>
+    </j.0:into>
+    <j.0:into>
+      <rdf:Description rdf:about="http://NorseMythology/Gods#Ymir">
+        <j.1:to>
+          <rdf:Description rdf:about="http://NorseMythology/Gods#Ran">
+            <j.3:to>
+              <rdf:Description rdf:about="http://NorseMythology/Gods#Kolga">
+                <j.3:to rdf:resource="http://NorseMythology/Gods#Heimdal"/>
+              </rdf:Description>
+            </j.3:to>
+            <j.3:to>
+              <rdf:Description rdf:about="http://NorseMythology/Gods#Drofn">
+                <j.3:to rdf:resource="http://NorseMythology/Gods#Heimdal"/>
+              </rdf:Description>
+            </j.3:to>
+            <j.3:to>
+              <rdf:Description rdf:about="http://NorseMythology/Gods#Bylgja">
+                <j.3:to rdf:resource="http://NorseMythology/Gods#Heimdal"/>
+              </rdf:Description>
+            </j.3:to>
+            <j.3:to>
+              <rdf:Description rdf:about="http://NorseMythology/Gods#Hronn">
+                <j.3:to rdf:resource="http://NorseMythology/Gods#Heimdal"/>
+              </rdf:Description>
+            </j.3:to>
+            <j.3:to>
+              <rdf:Description rdf:about="http://NorseMythology/Gods#Udr">
+                <j.3:to rdf:resource="http://NorseMythology/Gods#Heimdal"/>
+              </rdf:Description>
+            </j.3:to>
+            <j.3:to>
+              <rdf:Description rdf:about="http://NorseMythology/Gods#Hefring">
+                <j.3:to rdf:resource="http://NorseMythology/Gods#Heimdal"/>
+              </rdf:Description>
+            </j.3:to>
+            <j.3:to>
+              <rdf:Description rdf:about="http://NorseMythology/Gods#Blodughadda">
+                <j.3:to rdf:resource="http://NorseMythology/Gods#Heimdal"/>
+              </rdf:Description>
+            </j.3:to>
+            <j.3:to>
+              <rdf:Description rdf:about="http://NorseMythology/Gods#Dufa">
+                <j.3:to rdf:resource="http://NorseMythology/Gods#Heimdal"/>
+              </rdf:Description>
+            </j.3:to>
+            <j.3:to>
+              <rdf:Description rdf:about="http://NorseMythology/Gods#Himiglaeva">
+                <j.3:to rdf:resource="http://NorseMythology/Gods#Heimdal"/>
+              </rdf:Description>
+            </j.3:to>
+          </rdf:Description>
+        </j.1:to>
+        <j.1:to>
+          <rdf:Description rdf:about="http://NorseMythology/Gods#Aegir">
+            <j.1:to rdf:resource="http://NorseMythology/Gods#Kolga"/>
+            <j.1:to rdf:resource="http://NorseMythology/Gods#Himiglaeva"/>
+            <j.1:to rdf:resource="http://NorseMythology/Gods#Hronn"/>
+            <j.1:to rdf:resource="http://NorseMythology/Gods#Drofn"/>
+            <j.2:with rdf:resource="http://NorseMythology/Gods#Ran"/>
+            <j.1:to rdf:resource="http://NorseMythology/Gods#Dufa"/>
+            <j.1:to rdf:resource="http://NorseMythology/Gods#Blodughadda"/>
+            <j.1:to rdf:resource="http://NorseMythology/Gods#Hefring"/>
+            <j.1:to rdf:resource="http://NorseMythology/Gods#Bylgja"/>
+            <j.1:to rdf:resource="http://NorseMythology/Gods#Udr"/>
+          </rdf:Description>
+        </j.1:to>
+        <j.1:to>
+          <rdf:Description rdf:about="http://NorseMythology/Gods#Laufey">
+            <j.3:to>
+              <rdf:Description rdf:about="http://NorseMythology/Gods#Loki">
+                <j.1:to rdf:resource="http://NorseMythology/Gods#Sleipnir"/>
+                <j.2:with>
+                  <rdf:Description rdf:about="http://NorseMythology/Gods#A Horse">
+                    <j.3:to rdf:resource="http://NorseMythology/Gods#Sleipnir"/>
+                  </rdf:Description>
+                </j.2:with>
+                <j.1:to>
+                  <rdf:Description rdf:about="http://NorseMythology/Gods#Hel">
+                    <j.3:to>
+                      <rdf:Description rdf:about="http://NorseMythology/Gods#Njord">
+                        <j.1:to>
+                          <rdf:Description rdf:about="http://NorseMythology/Gods#Freyr">
+                            <j.2:with rdf:resource="http://NorseMythology/Gods#Gerdr"/>
+                          </rdf:Description>
+                        </j.1:to>
+                        <j.1:to rdf:resource="http://NorseMythology/Gods#Freya"/>
+                        <j.2:with>
+                          <rdf:Description rdf:about="http://NorseMythology/Gods#Skadi">
+                            <j.3:to rdf:resource="http://NorseMythology/Gods#Freyr"/>
+                            <j.3:to rdf:resource="http://NorseMythology/Gods#Freya"/>
+                          </rdf:Description>
+                        </j.2:with>
+                      </rdf:Description>
+                    </j.3:to>
+                  </rdf:Description>
+                </j.1:to>
+                <j.1:to rdf:resource="http://NorseMythology/Gods#Jormugand"/>
+                <j.1:to rdf:resource="http://NorseMythology/Gods#Fenrir"/>
+                <j.2:with>
+                  <rdf:Description rdf:about="http://NorseMythology/Gods#Angrboda">
+                    <j.3:to rdf:resource="http://NorseMythology/Gods#Hel"/>
+                    <j.3:to rdf:resource="http://NorseMythology/Gods#Jormugand"/>
+                    <j.3:to rdf:resource="http://NorseMythology/Gods#Fenrir"/>
+                  </rdf:Description>
+                </j.2:with>
+              </rdf:Description>
+            </j.3:to>
+          </rdf:Description>
+        </j.1:to>
+        <j.1:to>
+          <rdf:Description rdf:about="http://NorseMythology/Gods#Farbauti">
+            <j.1:to rdf:resource="http://NorseMythology/Gods#Loki"/>
+            <j.2:with rdf:resource="http://NorseMythology/Gods#Laufey"/>
+          </rdf:Description>
+        </j.1:to>
+        <j.1:to rdf:resource="http://NorseMythology/Gods#Angrboda"/>
+      </rdf:Description>
+    </j.0:into>
+    <j.0:into rdf:resource="http://NorseMythology/Gods#Giants"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://NorseMythology/Gods#Fjorgynn">
+    <j.1:to rdf:resource="http://NorseMythology/Gods#Frigg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://NorseMythology/Gods#Odr">
+    <j.2:with rdf:resource="http://NorseMythology/Gods#Freya"/>
+  </rdf:Description>
+</rdf:RDF>
